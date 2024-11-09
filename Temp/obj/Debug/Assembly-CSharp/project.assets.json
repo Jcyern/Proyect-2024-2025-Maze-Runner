@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juanca/Maze Runner Proyect/Maze_Runner/Assembly-CSharp.csproj",
+      "projectUniqueName": "/home/juanca/Documentos/Git_Proyecto De Programacion Maze/Proyect/Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "/home/juanca/Maze Runner Proyect/Maze_Runner/Assembly-CSharp.csproj",
+      "projectPath": "/home/juanca/Documentos/Git_Proyecto De Programacion Maze/Proyect/Assembly-CSharp.csproj",
       "packagesPath": "/home/juanca/.nuget/packages/",
-      "outputPath": "/home/juanca/Maze Runner Proyect/Maze_Runner/Temp/obj/Debug/Assembly-CSharp/",
+      "outputPath": "/home/juanca/Documentos/Git_Proyecto De Programacion Maze/Proyect/Temp/obj/Debug/Assembly-CSharp/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juanca/.nuget/NuGet/NuGet.Config"
