@@ -14,7 +14,7 @@ public class Flechas : MonoBehaviour
     int current = 0;
 
     public GameObject[] cards = new GameObject[6];
-    public GameObject[] barra = new GameObject[10];
+    public List<GameObject> barras = new();
     List<File> fichas = File.fichas;
 
 
@@ -25,7 +25,10 @@ public class Flechas : MonoBehaviour
 
     void Start()
     {
-
+        foreach (var barra in barras)
+        {
+            barra.SetActive(false);
+        }
         Show();
     }
 
@@ -77,7 +80,7 @@ public class Flechas : MonoBehaviour
 
 
         Pila.Push(current);
-        
+
 
         Show();
 
@@ -117,5 +120,35 @@ public class Flechas : MonoBehaviour
             der.SetActive(true);
         }
     }
+
+
+
+
+    public void Add(File file)
+    {
+        Debug.Log("se va a ejecutar add");
+        for (int i = 0; i < barras.Count; i++)
+        {
+            if (barras[i].GetComponent<Barra>().Name == "")
+            {   //add a las cartas seleccionadas
+                Juego.fichas.Add(file);
+                Debug.Log(file.Name);
+                Debug.Log(Juego.fichas.Count);
+
+
+                barras[i].GetComponent<Barra>().file = file;
+                barras[i].GetComponent<Barra>().pos = i;
+                barras[i].GetComponent<Barra>().Name = file.Name;
+
+                barras[i].GetComponent<Barra>().LoadName();
+                barras[i].SetActive(true);
+
+                break;
+            }
+        }
+    }
+
+
+
 }
 

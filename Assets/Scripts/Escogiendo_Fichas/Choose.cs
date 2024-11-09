@@ -10,7 +10,7 @@ public class Choose : MonoBehaviour
     public GameObject Mazo;
 
 
-
+    public List<GameObject> barras = new List<GameObject>();
 
 
 
@@ -28,7 +28,7 @@ public class Choose : MonoBehaviour
     }
 
 
- 
+
 
 
 
