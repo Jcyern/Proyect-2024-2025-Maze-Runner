@@ -1,0 +1,1 @@
+Aqui lo que  se quiere lograr es crear obstaculos pero sin que ninguna casilla quede  totalmente atrapada , osea que las casillas que no tienen pared ( valor 1 ) desde cualquier otra puedo acceder a ella algo asi como una especie de conexion , La manera mas optima que encontre fue q cada coluna , fila, digonal , puede haber un solo obstaculo 

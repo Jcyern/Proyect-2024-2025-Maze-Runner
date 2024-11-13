@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tablero_Obstaculos/1.0.0": {
+        "runtime": {
+          "Tablero_Obstaculos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tablero_Obstaculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

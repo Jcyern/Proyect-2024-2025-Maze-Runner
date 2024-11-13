@@ -1,0 +1,14 @@
+/home/juanca/Escritorio/Tablero_Obstaculos /bin/Debug/net8.0/Tablero_Obstaculos
+/home/juanca/Escritorio/Tablero_Obstaculos /bin/Debug/net8.0/Tablero_Obstaculos.deps.json
+/home/juanca/Escritorio/Tablero_Obstaculos /bin/Debug/net8.0/Tablero_Obstaculos.runtimeconfig.json
+/home/juanca/Escritorio/Tablero_Obstaculos /bin/Debug/net8.0/Tablero_Obstaculos.dll
+/home/juanca/Escritorio/Tablero_Obstaculos /bin/Debug/net8.0/Tablero_Obstaculos.pdb
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/Tablero_Obstaculos.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/Tablero_Obstaculos.AssemblyInfoInputs.cache
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/Tablero_Obstaculos.AssemblyInfo.cs
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/Tablero_Obstaculos.csproj.CoreCompileInputs.cache
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/Tablero_Obstaculos.dll
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/refint/Tablero_Obstaculos.dll
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/Tablero_Obstaculos.pdb
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/Tablero_Obstaculos.genruntimeconfig.cache
+/home/juanca/Escritorio/Tablero_Obstaculos /obj/Debug/net8.0/ref/Tablero_Obstaculos.dll
