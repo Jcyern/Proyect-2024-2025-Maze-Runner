@@ -1,0 +1,14 @@
+/home/juanca/Escritorio/Laberinto /bin/Debug/net8.0/Laberinto
+/home/juanca/Escritorio/Laberinto /bin/Debug/net8.0/Laberinto.deps.json
+/home/juanca/Escritorio/Laberinto /bin/Debug/net8.0/Laberinto.runtimeconfig.json
+/home/juanca/Escritorio/Laberinto /bin/Debug/net8.0/Laberinto.dll
+/home/juanca/Escritorio/Laberinto /bin/Debug/net8.0/Laberinto.pdb
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/Laberinto.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/Laberinto.AssemblyInfoInputs.cache
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/Laberinto.AssemblyInfo.cs
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/Laberinto.csproj.CoreCompileInputs.cache
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/Laberinto.dll
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/refint/Laberinto.dll
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/Laberinto.pdb
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/Laberinto.genruntimeconfig.cache
+/home/juanca/Escritorio/Laberinto /obj/Debug/net8.0/ref/Laberinto.dll
