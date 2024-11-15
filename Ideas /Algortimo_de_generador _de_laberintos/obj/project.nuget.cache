@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9OLrIGtZ3t4Tn/nk2n+K6dbq1Sw8DVRBzgHpjEGllAoHMd0BnT+UlSteKaHb/y89fzqlPcUZFkrCg4ExBCXoLg==",
+  "success": true,
+  "projectFilePath": "/home/juanca/Escritorio/Tablero idea 2/Tablero idea 2.csproj",
+  "expectedPackageFiles": [
+    "/home/juanca/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

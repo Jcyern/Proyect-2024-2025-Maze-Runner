@@ -1,0 +1,17 @@
+/home/juanca/Escritorio/Tablero idea 2/bin/Debug/net8.0/Tablero idea 2
+/home/juanca/Escritorio/Tablero idea 2/bin/Debug/net8.0/Tablero idea 2.deps.json
+/home/juanca/Escritorio/Tablero idea 2/bin/Debug/net8.0/Tablero idea 2.runtimeconfig.json
+/home/juanca/Escritorio/Tablero idea 2/bin/Debug/net8.0/Tablero idea 2.dll
+/home/juanca/Escritorio/Tablero idea 2/bin/Debug/net8.0/Tablero idea 2.pdb
+/home/juanca/Escritorio/Tablero idea 2/bin/Debug/net8.0/Spectre.Console.dll
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.csproj.AssemblyReference.cache
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.AssemblyInfoInputs.cache
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.AssemblyInfo.cs
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.csproj.CoreCompileInputs.cache
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.csproj.CopyComplete
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.dll
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/refint/Tablero idea 2.dll
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.pdb
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/Tablero idea 2.genruntimeconfig.cache
+/home/juanca/Escritorio/Tablero idea 2/obj/Debug/net8.0/ref/Tablero idea 2.dll
